@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T12:27:45.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QqsdfkMaqv8fBOrJcBEN" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T12:28:35.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oRhD_OJXMxlyeXc2xzcA" version="17.4.6" type="github">
   <diagram id="-AIn9_jZkJaEOOXUaaFC" name="Page-1">
-    <mxGraphModel dx="496" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,37 +224,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-112" value="/posts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="510" width="80" height="20" as="geometry" />
+          <mxGeometry x="400" y="510" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-113" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FEFAE0;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;" edge="1" parent="1" source="oRPkmb5jc26MxPRfLBFK-114" target="oRPkmb5jc26MxPRfLBFK-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-114" value="/post/:id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="550" width="80" height="20" as="geometry" />
+          <mxGeometry x="400" y="550" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-117" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FEFAE0;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;" edge="1" parent="1" source="oRPkmb5jc26MxPRfLBFK-118" target="oRPkmb5jc26MxPRfLBFK-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-118" value="/posts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="720" width="105" height="20" as="geometry" />
+          <mxGeometry x="400" y="720" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-119" value="getPosts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="510" width="80" height="20" as="geometry" />
+          <mxGeometry x="505" y="510" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-120" value="getPost" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="550" width="80" height="20" as="geometry" />
+          <mxGeometry x="505" y="550" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-122" value="createPosts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="720" width="85" height="20" as="geometry" />
+          <mxGeometry x="530" y="720" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-125" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FEFAE0;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;" edge="1" parent="1" source="oRPkmb5jc26MxPRfLBFK-126" target="oRPkmb5jc26MxPRfLBFK-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-126" value="/user_posts/:id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="590" width="105" height="20" as="geometry" />
+          <mxGeometry x="400" y="590" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-128" value="getUserPosts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="590" width="95" height="20" as="geometry" />
+          <mxGeometry x="530" y="590" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-130" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="1" target="oRPkmb5jc26MxPRfLBFK-132">
           <mxGeometry relative="1" as="geometry">
@@ -265,10 +265,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-132" value="/user_discover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="629.97" width="105" height="20" as="geometry" />
+          <mxGeometry x="400" y="629.97" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-133" value="getPostsDiscover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="629.97" width="107.5" height="20" as="geometry" />
+          <mxGeometry x="530" y="629.97" width="107.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-134" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="oRPkmb5jc26MxPRfLBFK-136" source="oRPkmb5jc26MxPRfLBFK-106">
           <mxGeometry relative="1" as="geometry">
@@ -279,10 +279,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-136" value="/getSavePosts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="670" width="105" height="20" as="geometry" />
+          <mxGeometry x="400" y="670" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRPkmb5jc26MxPRfLBFK-137" value="getSavePosts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="670" width="95" height="20" as="geometry" />
+          <mxGeometry x="530" y="670" width="95" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
